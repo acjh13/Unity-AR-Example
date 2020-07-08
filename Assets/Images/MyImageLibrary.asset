@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: MyImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5322205745063201186
+  m_GuidHigh: 1837906462543921066
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5468893806885146906
+      m_GuidHigh: 994039818432500115
+    m_SerializedTextureGuid:
+      m_GuidLow: 82253226505813096
+      m_GuidHigh: 5625044670242588459
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: tile1
+    m_Texture: {fileID: 2800000, guid: ab823c6838df01242b878327532c104e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5532539660329676160
+      m_GuidHigh: 11802581392868080539
+    m_SerializedTextureGuid:
+      m_GuidLow: 18024779438252858125
+      m_GuidHigh: 15280401365477428313
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: tile_bird
+    m_Texture: {fileID: 2800000, guid: 53d39b0de166fa24590cad3615e40ed4, type: 3}
